@@ -1,16 +1,28 @@
-## Hi there 👋
+# 📊 Pedro Guioti — Github
 
-<!--
-**pedroguioti/pedroguioti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu github! =)
+Aqui você encontra alguns dos projetos que desenvolvi quando estava na graduação com foco em análise de dados, visualização e soluções baseadas em evidências.
 
-Here are some ideas to get you started:
+🌐 **Acesse o site:**  
+[https://pedroguioti.github.io/portfolio](https://pedroguioti.github.io/portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ Sobre mim
+
+- Estatístico formado pela Universidade Estadual de Maringá (2025).
+- Domínio de **R**, **Python**, **SQL**, **Power BI** e ferramentas para tomada de decisão orientada por dados.
+- Interessado em projetos que unem estatística robusta e comunicação clara de resultados.
+
+---
+
+## 🚀 Projetos
+
+---
+
+## 📫 Contato
+
+- **Email**: pedroguioti@gmail.com  
+- **LinkedIn**: [[linkedin](https://www.linkedin.com/in/pguioti/)]
+
+---
